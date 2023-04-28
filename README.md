@@ -105,11 +105,15 @@ Maven环境搭建，本地仓库&中央仓库，自动部署&持续继承&持续
 
 ### 4.2、Springboot
 
+SpringBoot是一个集成了Spring技术栈的一个大整合，是一个简化了Spring应用开发的框架，可以一站式解决J2EE的开发流程。
 
+参考学习地址：https://www.bilibili.com/video/BV19K4y1L7MT/?spm_id_from=333.337.search-card.all.click
 
 ### 4.3、Springcloud
 
+分布式/版本化配置，服务注册和发现，路由，服务到服务调用，负载均衡，断路器，全局锁，leader选举和集群状态，分布式消息传递
 
+参考学习地址：https://www.bilibili.com/video/BV18E411x7eT/?spm_id_from=333.337.search-card.all.click
 
 ### 4.4、Mybatis
 
